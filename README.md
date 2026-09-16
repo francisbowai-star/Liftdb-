@@ -1,2 +1,1 @@
-# Liftdb-
-Inspirational quotes that encourage you, inspire and educate you. 
+# Liftdb-A simple web app that lifts your spirits with daily inspirational quotes
